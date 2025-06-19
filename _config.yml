@@ -1,9 +1,9 @@
-id: 170
+id: 157
 user: eq19
-span: span-151
+span: span-138
 title: eQuantum
 repository: ZeroWeak/ZeroWeak.github.io
-action: WeakPositive/underscore/actions/runs/15656304001
+action: WeakPositive/underscore/actions/runs/15749504355
 description: eQuantum Project - Zero Weak Boson
 
 #debug:
@@ -47,6 +47,6 @@ plugins:
   - jekyll-optional-front-matter
 
 track:
-  spin: [13, 0]
+  spin: [12, 0]
   pinned: [maps, feed, lexer, parser, syntax, grammar, pysme, numqi, pyrate, nthmc, spectral, algorithms]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
